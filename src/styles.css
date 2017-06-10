@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.row.content {height: 450px}
+
+.sidenav {
+      padding-top: 20px;
+      background-color:#f1f1f1;
+      height: 100%;
+    }    
+
+footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+
